@@ -4,4 +4,5 @@ This project presents a four-floor elevator control system model developed and i
 - Call buttons from each floor and inside the elevator
 - Safety interlocks and emergency stop
 - Floor indicator display and elevator status LEDs
+
 Although implemented as a training model, the system fully replicates the behavior and logic of an actual elevator. The project uses PLC (Programmable Logic Controller) for real-time control and is intended for educational and research purposes in industrial automation.
